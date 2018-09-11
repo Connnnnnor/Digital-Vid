@@ -4,6 +4,6 @@ This is my page
 
 [This is the class syllibus](https://connnnnnor.github.io/Digital-Vid/Syllibus)
 
-[Video](https://github.com/Connnnnnor/Digital-Vid/blob/master/new.md)
+[Video](https://connnnnnor.github.io/Digital-Vid/new)
 
-[Person of Interest](https://github.com/Connnnnnor/Digital-Vid/tree/master)
+[Person of Interest](https://connnnnnor.github.io/Digital-Vid/neww)
